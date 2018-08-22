@@ -1,0 +1,6 @@
+E:\Jignesh Darji\Projects\CompareWordFromString\CompareWordFromString\bin\Debug\CompareWordFromString.exe.config
+E:\Jignesh Darji\Projects\CompareWordFromString\CompareWordFromString\bin\Debug\CompareWordFromString.exe
+E:\Jignesh Darji\Projects\CompareWordFromString\CompareWordFromString\bin\Debug\CompareWordFromString.pdb
+E:\Jignesh Darji\Projects\CompareWordFromString\CompareWordFromString\obj\Debug\CompareWordFromString.csprojResolveAssemblyReference.cache
+E:\Jignesh Darji\Projects\CompareWordFromString\CompareWordFromString\obj\Debug\CompareWordFromString.exe
+E:\Jignesh Darji\Projects\CompareWordFromString\CompareWordFromString\obj\Debug\CompareWordFromString.pdb
